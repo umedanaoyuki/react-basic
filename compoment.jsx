@@ -3,8 +3,8 @@ const App = () => {
     return <p>これは関数コンポーネントです</p>
 }
 
-// ReactDOM.render
 
+// ReactDOM.render
 //HTML
 <div id="root"></div>
 
